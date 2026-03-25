@@ -10,7 +10,6 @@ IC741.
 
 <img width="634" height="166" alt="image" src="https://github.com/user-attachments/assets/e7f51b72-b143-4728-9c65-6b9d447201cf" />
 
-
 ## THEORY
 ## INSTRUMENTATION AMPLIFIER
 
@@ -28,9 +27,14 @@ performance.
  The output of Instumentation amplifier is given by 
                                                          
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
+
 ## CIRCUIT DIAGRAM: 
 
+<img width="1080" height="1376" alt="image" src="https://github.com/user-attachments/assets/fdaa37d5-7467-49ed-9148-c68e89d2674d" />
+
 ## MODEL GRAPH:
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e4429c00-44f2-4849-ac80-b6f29a823a0f" />
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -48,9 +52,15 @@ waveforms are plotted in a graph sheet.
 
 ## TABULATION:
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d70dbf34-ce6a-42db-88df-a42628fe913e" />
+
 ## CALCULATIONS:
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dbf2581d-49a7-4cb8-8374-dbc7aa9c7697" />
+
 ## GRAPH:
+
+<img width="1080" height="1487" alt="image" src="https://github.com/user-attachments/assets/880347fa-8014-4b8f-8d25-9f2c0201c608" />
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
