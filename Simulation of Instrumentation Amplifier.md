@@ -21,9 +21,11 @@ obtained.
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2026-03-25 at 8 42 53 PM](https://github.com/user-attachments/assets/fec6da10-f14b-46a5-aa7f-3525a8e4a01a)
 
 
 ## OUTPUT GRAPH:
+![WhatsApp Image 2026-03-25 at 8 42 53 PM](https://github.com/user-attachments/assets/5838ac15-09f5-42f5-a49e-6c44311471fd)
 
 
 ## RESULT:
